@@ -1,0 +1,33 @@
+/* Title Header */
+ .Header-Title-Styles{
+    color: orangered !important;
+    margin-left: 3em !important;
+    background-color: white !important;
+    font-size: 2.5em !important;
+    margin-top: 0.2em !important;
+    margin-bottom: 0.3em !important;
+}
+.Toll-Free-Details{
+    color:black;
+    display: flex;
+    justify-content: space-between;
+    margin-top:2em;
+}
+.container{
+    background-color:#F5F5F5;
+    padding:2em;
+}
+.pages{
+    padding-left: -1em !important;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 1em !important;
+}
+
+.product_links{
+    color: black !important;
+    margin: 0em 2.9em !important;
+    text-decoration: none !important;
+}
+
+

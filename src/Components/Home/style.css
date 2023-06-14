@@ -1,0 +1,351 @@
+.Home-Big-Text{
+    font-size:4em !important;
+    font-weight: 600 !important;
+    line-height: 1em !important;
+}
+.Home-Small-Text{
+    font-size:4.3em !important;
+    font-weight: 600 !important;
+}
+.Home-Desc{
+    font-size: 1em !important;
+    width: 66%;
+}
+.findBtn{
+    background-color: orangered !important;
+    border:1px solid orangered !important;
+    color:white !important;
+    text-align: center !important;
+    border-radius: 5px !important;
+    margin-top: 3em !important;
+    text-transform: capitalize !important;
+}
+.Circle1{
+    left: 12em;
+    color: orangered;
+    position: absolute;
+    font-size: 49px !important;
+    top: 5em;
+}
+.Circle2{
+    font-size: 80px !important;
+    transform: rotate(113deg);
+    position: absolute;
+    color: deepskyblue;
+    left: 2em;
+    top: 2.8em;
+}
+.Circle3{
+    transform: rotate(210deg) !important;
+    position: absolute;
+    color: deepskyblue;
+    left: 11em !important;
+    font-size: 60px !important;
+    top: 11em !important;
+}
+
+.Circle4{
+    color: orangered;
+    position: absolute;
+    left: 2em;
+    font-size: 13px !important;
+}
+.Circle5{
+    font-size: 43px !important;
+    position: absolute;
+    color: deepskyblue;
+    transform: rotate(210deg) !important;
+    right: 5em;
+    top: 7em;
+}
+.Circle6{
+    font-size: 25px !important;
+    color: orangered;
+    position: absolute;
+    right: 13.5em;
+    top: 22.4em;
+}
+/* Collection Styles */
+.Collection-Container{
+    background-color: #F5F5F5;
+    margin-top: 10em;
+}
+.Collection-Title{
+    font-size: 3em !important;
+    text-align: center;
+    padding: 2.8em 0em 0.5em 1em;
+}
+.Collection-List{
+    font-size: 1.3em !important;
+    text-align: center;
+    color:darkgray;
+}
+.Col-Display{
+ display: flex !important;
+ justify-content: space-between !important;
+ padding: 20px 119px;
+}
+
+.Cat-Display{
+    display: flex !important;
+    justify-content: space-between !important;
+}
+.Cat-Card{
+    width: 85%;
+    margin: 2em 2em;
+    height: 636px;
+}
+.Cat-Text{
+    font-size: 17px !important;
+    margin-top: 27em !important;
+    margin-left: 2em !important;
+    font-weight: 700 !important;
+    color: darkgrey;
+}
+.Cat-SubText{
+    font-weight: 700 !important;
+    font-size: 2em !important;
+    margin-left: 1em !important;
+}
+.ArrowBtn{
+    width: 2%;
+    margin-top: -1em !important;
+    margin-left: 2em !important;
+    background: orangered !important;
+    border: 1px solid orangered !important;
+    border-radius: 50px !important;
+    color:white !important;
+    height: 62px;
+}
+
+/* Top Items Section */
+.Top-Big-Text{
+    font-size: 48px !important;
+    text-align: center !important;
+    margin-top: 2em !important;
+}
+.Top-Desc{
+    font-size: 20px !important;
+    text-align: center !important;
+    margin-top: 2em !important;
+    width: 49%;
+    margin: 0 auto !important;
+}
+.Top-Display{
+    display: flex !important;
+    justify-content: space-between !important;
+}
+.Top-Card{
+    width: 85%;
+    margin: 2em 2em;
+    height: 450px;
+    background-color: #DCDCDC !important;
+}
+.Top-Text{
+    text-align: center;
+    margin-top: 13em !important;
+    font-size: 24px !important;
+    font-weight: 900;
+    color: black;
+    font-weight: 900;
+    font-weight: 700 !important;
+}
+.Top-SubText{
+    text-align: center;
+    font-size: 15px !important;
+}
+.Top-price{
+    text-align: center;
+    font-size: 13px !important;
+}
+.Price-One{
+    color:red !important;
+}
+.Sale-Btn{
+    color:red !important;
+    background:white !important;
+    border:1px solid white !important;
+}
+
+/* Story Section */
+.Story-Container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5em;
+    background-color:#F5F5F5;
+    padding:10em;
+}
+.Story-Card{
+    background-color: #D3D3D3 !important;
+    height: 700px !important;
+}
+.Story-Big-Text{
+    margin-top: 1.6em !important;
+    font-size: 4em !important;
+}
+.Story-Small-Text{
+    font-size: 3.3em !important;
+}  
+.Story-Desc{
+    margin-left: 10px;
+    color: #D3D3D3;
+}
+.Read-Text{
+    color:orangered;
+    margin-top: 3em !important;
+}
+
+/*Achievement Section */
+.Ach-Text{
+    text-align: center !important;
+    font-size: 4em !important;
+    margin-top: 3em !important;
+}
+.Ach-Logo{
+    display: flex !important;
+    justify-content: space-between !important;
+    margin-top: 3em !important;
+}
+.Company-Logo{
+    font-size: 4em !important;
+    color: orangered;
+}
+
+.Company-Logo-Text{
+    margin-top: 4px !important;
+    color: orangered;
+    font-size: 19px !important;
+    margin-left: -3em !important;
+    width: 10%;
+    line-height: 39px;
+}    
+
+.Company-Logo-LastText{
+    margin-top: 4px !important;
+    color: orangered;
+    font-size: 19px !important;
+    margin-left: 4em !important;
+    width: 10%;
+    line-height: 39px;
+}
+
+/* seller */
+.Seller-Container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 11em;
+    padding: 7em 2em;
+}
+.Seller-Card{
+    background-color: #D3D3D3 !important;
+    height: 350px !important;
+}
+.Seller-Title{
+    color: orangered;
+    font-size: 3em !important;
+    margin-top: 1.5em !important;
+}
+.Left-Arrow-Btn{
+    height: 5.7em !important;
+    border-radius: 35px !important;
+    border: 1px solid white !important;
+    color: black !important;
+    position: absolute;
+    left: -50% !important;
+    width: 4.8em !important;
+    font-size: 11px !important;
+    top: 44em !important;
+    padding: 12px !important;
+    background-color: white !important;
+}
+.Right-Arrow-Btn{
+    height: 5.7em !important;
+    border-radius: 35px !important;
+    border: 1px solid white !important;
+    color: black !important;
+    position: absolute;
+    width: 4.8em !important;
+    font-size: 11px !important;
+    top: -29em !important;
+    left: 54em;
+    padding: 12px !important;
+    background-color: white !important;
+}
+.Reviewer-Name{
+font-size: 21px !important;
+margin-top: 2em !important;
+font-weight: 700 !important;
+line-height: 48px !important;
+}
+
+
+/* Get More Section */
+.See-More-Container{
+    margin-top: 12em;
+}
+
+.Get-More-Text{
+    width: 37% !important;
+    font-size: 43px !important;
+}
+.See-More-Text{
+    padding-left: 0.6em;
+    font-size: 22px;
+    font-weight: 700;
+    color: orangered;
+    margin-top: 4em !important;
+}
+
+.Article-Card{
+    justify-content: space-around;
+    margin-top:5em !important;
+}
+.Art-Big-Text{
+    margin-top: 1em !important;
+    font-size: 29px !important;
+}
+
+.Date{
+    font-size: 20px !important;
+    color:#778899 !important;
+    line-height:3em !important;
+}
+.Art-Desc{
+    font-size: 15px;
+    color:#D3D3D3 !important;
+}
+
+.Expand-Text{
+    font-size: 15px !important;
+    color:orangered; 
+    line-height:3em !important;
+}
+
+/* Newsletter Section */
+.News-Container{
+    margin-top:7em;
+}
+.News-Card{
+padding: 5em 8em;
+}
+.New-Title{
+text-align: center;
+font-size: 3em !important;
+font-weight: 600 !important;
+}
+
+.News-Desc{
+    text-align: center !important;
+    width: 81% !important;
+    font-size: 18px !important;
+    margin-left: 6em !important;
+    margin-bottom: 3em !important;
+    color:grey;
+}
+
+.outlined-basic{
+    margin-left: 11em !important;
+    width: 70% !important;
+    background-color: #F5F5F5 !important;
+}
+
